@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "jest": "^24.8.0"
+  },
+  "name": "webtesting-i-challenge",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/raberin/webtesting-i-challenge.git",
+  "author": "raberin <rmvaberin@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest --watch --verbose"
+  }
+}
